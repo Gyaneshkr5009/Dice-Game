@@ -7,25 +7,25 @@
 .dice {
   text-align: center;
   display: inline-block;
-
 }
 
 body {
-  background-color: #393E46;
+  background-color: #cad9f2;
+  background-image: url(https://images.unsplash.com/photo-1570303345338-e1f0eddf4946?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGRpY2V8ZW58MHx8MHx8fDA%3D);
 }
 
 h1 {
   margin: 30px;
-  font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #232931;
+  font-family: "Lobster", cursive;
+  text-shadow: 5px 0 #0d4fa5;
   font-size: 8rem;
-  color: #4ECCA3;
+  color: #ebe578;
 }
 
 p {
   font-size: 2rem;
-  color: #4ECCA3;
-  font-family: 'Indie Flower', cursive;
+  color: #336879;
+  font-family: "Indie Flower", cursive;
 }
 
 img {
@@ -34,8 +34,7 @@ img {
 
 footer {
   margin-top: 5%;
-  color: #EEEEEE;
+  color: #35086f;
   text-align: center;
-  font-family: 'Indie Flower', cursive;
-
+  font-family: "Indie Flower", cursive;
 }
